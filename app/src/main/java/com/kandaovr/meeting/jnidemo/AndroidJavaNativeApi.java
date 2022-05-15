@@ -8,4 +8,8 @@ public class AndroidJavaNativeApi {
 
     public native void setObjectType(String str,ObjectType objectType);
 
+
+
+
+
 }
