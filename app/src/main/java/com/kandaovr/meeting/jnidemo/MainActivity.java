@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
         System.loadLibrary("common");
     }
 
-    
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
